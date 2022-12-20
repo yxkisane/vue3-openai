@@ -1,5 +1,5 @@
 {
-  "name": "openai",
+  "name": "vue3-openai",
   "version": "0.1.0",
   "private": true,
   "scripts": {
